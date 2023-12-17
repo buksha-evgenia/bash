@@ -1,4 +1,4 @@
-# bash
+# 📝 bash
 
 Sometimes we need to work with remote servers with no graphic interface. In this case it's important to be able to use bash commands to perform regular actions such as creating, editing, deleting files via CLI. 
 
